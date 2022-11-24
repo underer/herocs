@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/Dior-prog/Onlyme",
-  "repository": "https://github.com/Dior-prog/Onlyme",
+  "website": "https://github.com/underer/herocs",
+  "repository": "https://github.com/underer/herocs",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
